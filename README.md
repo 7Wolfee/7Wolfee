@@ -1,23 +1,49 @@
-### Hi there 👋
+<div align="center">
+  
+<h1>Hi there 👋</h1>
 
-###### add me on steam <3
-<a href="https://steamcommunity.com/id/Wolfee__/" title="steam"><img src="https://user-images.githubusercontent.com/73404040/175034425-613ecc70-281c-4663-a38f-d6fc84e18caf.png" alt="drawing" style="width:30px;"/></a>
 
+  
+<div>
+    <h4>add me on steam</h4>
+    <a href="https://steamcommunity.com/id/Wolfee__/" title="steam"><img src="imgs/Steam.png" style="width:45px;"/></a>
+</div>
+<br>
+<div>
+    <h4>stuff i like</h4>
+    <img style="width:45px" src="imgs/Python.png" />
+    <img style="width:45px" src="imgs/Java.png" />
+    <img style="width:45px" src="imgs/Git.png" />
+    <img style="width:45px" src="imgs/Pycharm.png" />
+    <img style="width:45px" src="imgs/Intellij.png" />
+    <img style="width:45px" src="imgs/Blender.png" />
+    <img style="width:45px" src="imgs/Mysql.png" />
+</div>
+<div>
+    <h4>stuff i don't like</h4>
+    <img style="width:45px" src="imgs/Html5.png" />
+    <img style="width:32px" src="imgs/Css.png" />
+</div>
 
+<hr>
 <br>
 
-[![Top Langs](https://github-readme-stats-umber-nine.vercel.app/api/top-langs/?username=Wolfee0071&layout=compact&theme=radical&exclude_repo=sitocybercraft&hide=autohotkey,batchfile)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats-umber-nine.vercel.app/api/top-langs/?username=Wolfee0071&layout=compact&theme=radical&exclude_repo=sitocybercraft&hide=autohotkey,batchfile" />
+  
+<hr>
+    
+<h2>Currently working on:</h2>
 
-<br>
+<div style="width: 65%" align="left">
+    <ul>
+      <li>Myself</li>
+      <li>A discord bot called <i>LuminaHelp</i> to log and automate some cool stuff made with     discord.py and mysqlite.</li>
+      <li>This ugly readme</li>
+    </ul>
+</div>
 
-## currently working on:
-- #### Myself :)
-- #### A cute and useful discord bot called *"LuminaHelp"* to log and automate some cool stuff made with discord.py and mysqlite.
-- #### this ugly readme
+</div>
 
-<br>
+<hr>
 
-
-
-###### note:
-> ###### All my repos are private :) because im insicure about my work and i dont want to show it
+<h6>All my repos are private :) because im insicure about my work and i dont want to show it</h6>
