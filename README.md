@@ -8,12 +8,11 @@
     <h4>add me on steam</h4>
     <a href="https://steamcommunity.com/id/Wolfee__/" title="steam"><img src="imgs/Steam.png" style="width:45px;"/></a>
 </div>
-<br>
 <div>
     <h4>stuff i like</h4>
     <img style="width:45px" src="imgs/Python.png" />
     <img style="width:45px" src="imgs/Java.png" />
-    <img style="width:45px" src="imgs/Git.png" />
+    <img style="width:45px" src="imgs/GIt.png" />
     <img style="width:45px" src="imgs/Pycharm.png" />
     <img style="width:45px" src="imgs/Intellij.png" />
     <img style="width:45px" src="imgs/Blender.png" />
