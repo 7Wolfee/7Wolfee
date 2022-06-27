@@ -20,11 +20,11 @@
     <img style="width:45px" src="imgs/Html5.png" />
     <img style="width:32px" src="imgs/Css.png" />
 </div>
+<!-- 
 <div>
-    <h4>stuff i don't like</h4>
-    
+    <h4>stuff i don't like</h4>   
 </div>
-
+-->
 <hr>
 <br>
 
