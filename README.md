@@ -17,11 +17,12 @@
     <img style="width:45px" src="imgs/Intellij.png" />
     <img style="width:45px" src="imgs/Blender.png" />
     <img style="width:45px" src="imgs/Mysql.png" />
+    <img style="width:45px" src="imgs/Html5.png" />
+    <img style="width:32px" src="imgs/Css.png" />
 </div>
 <div>
     <h4>stuff i don't like</h4>
-    <img style="width:45px" src="imgs/Html5.png" />
-    <img style="width:32px" src="imgs/Css.png" />
+    
 </div>
 
 <hr>
