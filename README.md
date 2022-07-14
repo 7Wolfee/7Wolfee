@@ -29,10 +29,12 @@
 <br>
 
 <img src="https://github-readme-stats-umber-nine.vercel.app/api/top-langs/?username=7Wolfee&layout=compact&theme=radical&exclude_repo=sitocybercraft&hide=autohotkey,batchfile" />
-  
+
+<!--
 <hr>
     
 <h2>Currently working on:</h2>
+
 
 <div style="width: 65%" align="left">
     <ul>
@@ -41,6 +43,7 @@
       <li>This ugly readme</li>
     </ul>
 </div>
+-->
 
 </div>
 
