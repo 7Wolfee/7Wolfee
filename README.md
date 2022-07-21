@@ -30,20 +30,19 @@
 
 <img src="https://github-readme-stats-umber-nine.vercel.app/api/top-langs/?username=7Wolfee&layout=compact&theme=radical&exclude_repo=sitocybercraft&hide=autohotkey,batchfile" />
 
-<!--
+
 <hr>
     
 <h2>Currently working on:</h2>
 
-
 <div style="width: 65%" align="left">
     <ul>
       <li>Myself</li>
-      <li>A discord bot called <i>LuminaHelp</i> to log and automate some cool stuff made with     discord.py and mysqlite.</li>
+      <li>My blog website! made with flask and bootstrap</li>
       <li>This ugly readme</li>
     </ul>
 </div>
--->
+
 
 </div>
 
