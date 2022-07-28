@@ -19,6 +19,7 @@
     <img style="width:45px" src="imgs/Mysql.png" />
     <img style="width:45px" src="imgs/Html5.png" />
     <img style="width:32px" src="imgs/Css.png" />
+    <img style="height:37px" src="imgs/Bootstrap.png" />
 </div>
 <!-- 
 <div>
