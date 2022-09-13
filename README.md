@@ -40,6 +40,7 @@
     <ul>
       <li>Myself</li>
       <li>My blog website! made with flask and bootstrap</li>
+      <li>Discord bot for my team server! mate with nextcord!</li>
       <li>This ugly readme</li>
     </ul>
 </div>
