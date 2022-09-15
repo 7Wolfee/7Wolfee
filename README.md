@@ -29,7 +29,7 @@
 <hr>
 <br>
 
-<img src="https://github-readme-stats-umber-nine.vercel.app/api/top-langs/?username=7Wolfee&layout=compact&theme=radical&exclude_repo=sitocybercraft&hide=autohotkey,batchfile" />
+<img src="https://github-readme-stats-umber-nine.vercel.app/api/top-langs/?username=7Wolfee&layout=compact&theme=radical&exclude_repo=sitocybercraft&hide=autohotkey,batchfile,kotlin" />
 
 
 <hr>
