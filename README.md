@@ -20,7 +20,7 @@
   
 </div>
 <div>
-  <h4>Ides i use</h4>
+  <h4>IDEs i use</h4>
   <img style="width:45px" src="imgs/Pycharm.png" />
   <img style="width:45px" src="imgs/Intellij.png" />
   <img style="width:45px" src="imgs/Fleet.png" />
