@@ -17,6 +17,7 @@
     <img style="width:45px" src="imgs/GIt.png" />
     <img style="width:45px" src="imgs/Mysql.png" />
     <img style="width:45px" src="imgs/Json.png" />
+	<img style="width:45px" src="imgs/Docker.png" />
   
 </div>
 <div>
